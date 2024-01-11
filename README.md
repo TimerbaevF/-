@@ -34,7 +34,8 @@ https://www.kaggle.com/code/timka01/the-need-for-medical-services/edit/run/15656
 **Считываем датасет**
 ![image](https://github.com/TimerbaevF/-/assets/114729066/ea17d3a6-bd45-4f82-b88b-4a3cf3735e35)
 
-
+# Запускать код по порядку
+**https://www.kaggle.com/code/timka01/the-need-for-medical-services/edit/run/156567718**
 # Библиотеки
 (Эти библиотеки предоставляют мощные средства для обработки данных, визуализации результатов и построения и оценки моделей машинного обучения)
 
