@@ -1,6 +1,6 @@
 import spacy
 
-# Загрузка модели для русского языка
+    # Загрузка модели для русского языка
 nlp = spacy.load("ru_core_news_sm")
 
 def categorize_keywords(keywords):
