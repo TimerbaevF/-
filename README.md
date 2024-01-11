@@ -36,6 +36,7 @@ https://www.kaggle.com/code/timka01/the-need-for-medical-services/edit/run/15656
 
 # Запускать код по порядку
 **https://www.kaggle.com/code/timka01/the-need-for-medical-services/edit/run/156567718**
+определения расписсаны в коде
 # Библиотеки
 (Эти библиотеки предоставляют мощные средства для обработки данных, визуализации результатов и построения и оценки моделей машинного обучения)
 
