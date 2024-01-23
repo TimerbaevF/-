@@ -77,6 +77,7 @@ https://www.kaggle.com/code/timka01/the-need-for-medical-services/edit/run/15656
 ![image](https://github.com/TimerbaevF/-/assets/114729066/ebf42f89-a5f2-4991-aab8-9e0e31c7af56)
 
 Показан Юго-восточный регион с наибольшим числом курильщиков, за которым следуют северо-восток и юго-запад
+
 Проведя анализ по регионам и тратам и возрасту, могу сказать регион не имеет значения.
 
 ![image](https://github.com/TimerbaevF/-/assets/114729066/5e16f447-45aa-40d2-8b0d-8e9a11f005bd)
