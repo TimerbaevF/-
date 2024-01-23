@@ -55,6 +55,23 @@ https://www.kaggle.com/code/timka01/the-need-for-medical-services/edit/run/15656
 
 ![image](https://github.com/TimerbaevF/-/assets/114729066/ea17d3a6-bd45-4f82-b88b-4a3cf3735e35)
 
+![image](https://github.com/TimerbaevF/-/assets/114729066/6b430aa6-7fcd-474f-8e7a-3548b45cd887)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/deec78fe-518e-4ab8-a87b-4411874a6692)
+
+Заменяем значения в столбцах "Курильщик" и "Пол" на 0 и 1 для удобства
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/bb7fe13b-d616-4519-b234-faefebda8a71)
+
+описание всех числовых столбцов
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/ddbc4827-a060-48e6-9b2d-cea1c7a1bf2e)
+
+Отображение различных соотношений различных столбцов, сгруппированных по количеству дочерних элементов, для быстрого нахождения нужных отношений.
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/02e0095a-796f-49b5-9585-2d92cd35d6e2)
+
+
 ## Результаты и Выводы
 Проведен анализ на основе жителей разных регионов по потребностям в медицинских услугах.
 ![image](https://github.com/TimerbaevF/-/assets/114729066/ebf42f89-a5f2-4991-aab8-9e0e31c7af56)
