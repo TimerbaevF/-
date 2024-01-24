@@ -42,3 +42,8 @@
 
 ![image](https://github.com/TimerbaevF/-/assets/114729066/05fac6b5-6225-4d72-9c29-65ecf5180550)
 
+возникла проблема с выполнением операций на GPU
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/56995325-01a3-4fc1-a886-a579e3ab37aa)
+
+
