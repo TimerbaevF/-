@@ -33,3 +33,8 @@
 
 ![image](https://github.com/TimerbaevF/-/assets/114729066/5dea6d50-b266-4c91-a138-97c9cac61e5f)
 
+![image](https://github.com/TimerbaevF/-/assets/114729066/59dcb333-b0ea-41b1-9976-44445da4ba75)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/31ea0ddc-8c0d-4069-9e2c-7b7833556143)
+
+
