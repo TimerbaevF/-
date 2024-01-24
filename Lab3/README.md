@@ -2,6 +2,7 @@
 Цель проекта: Создание эффективной системы распознавания и классификации звуковых сигналов природных бедствий на основе анализа аудиоданных с использованием методов машинного обучения.
 
 Ссылка на датасет:  https://github.com/karoldvl/ESC-50/archive/master.zip
+
 Ссылка на Kaggle: https://www.kaggle.com/code/timka01/notebook159446cd55/edit
 
 ## Загрузка и импортирование моделей
@@ -19,4 +20,16 @@
 
 
 ![image](https://github.com/TimerbaevF/-/assets/114729066/0cc73c45-337c-4693-9a3d-b74893004723)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/4b22eb75-dbc2-46d4-b5e0-01db2ecfe3da)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/c940079e-9e78-4b7e-9d6e-d7f4a25f83ab)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/d35f3694-f245-4680-9801-54dfd40c1ad3)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/b304f3c7-bc33-4c4a-80e5-526ee4531158)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/75321882-ee8a-49b7-a762-c89d21365596)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/5dea6d50-b266-4c91-a138-97c9cac61e5f)
 
