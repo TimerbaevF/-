@@ -46,4 +46,6 @@
 
 ![image](https://github.com/TimerbaevF/-/assets/114729066/56995325-01a3-4fc1-a886-a579e3ab37aa)
 
+![image](https://github.com/TimerbaevF/-/assets/114729066/2f7cf5e9-1dc3-4aa4-9ab6-8d8f326158b8)
 
+вывести краткое описание вашей модели CNN, включая размер входных и выходных данных
