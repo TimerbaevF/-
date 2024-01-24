@@ -40,4 +40,5 @@
 
 ![image](https://github.com/TimerbaevF/-/assets/114729066/31ea0ddc-8c0d-4069-9e2c-7b7833556143)
 
+![image](https://github.com/TimerbaevF/-/assets/114729066/05fac6b5-6225-4d72-9c29-65ecf5180550)
 
