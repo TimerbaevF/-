@@ -3,6 +3,9 @@
 
 Ссылка на датасет:  https://github.com/karoldvl/ESC-50/archive/master.zip
 
+![image](https://github.com/TimerbaevF/-/assets/114729066/819b04af-32e0-4c7c-8e8c-58a2be6dbcff)
+
+
 Ссылка на Kaggle: https://www.kaggle.com/code/timka01/notebook159446cd55/edit
 
 ## Загрузка и импортирование моделей
