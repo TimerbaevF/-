@@ -42,3 +42,12 @@ print(not_simple_prediction)
 anger
 {'neutral': 0.07208070158958435, 'happiness': 0.0054039484821259975, 'sadness': 0.002871396718546748, 'enthusiasm': 0.01321068499237299, 'fear': 0.017850318923592567, 'anger': 0.8831279277801514, 'disgust': 0.005455052014440298}
 ```
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/da6d924c-9c1c-42ba-92d2-ed22a3985f0e)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/92bb54c5-8f41-4188-b159-7f9984e49f25)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/452eec4c-05a1-4a34-83d6-83e5fa564fca)
+
+![image](https://github.com/TimerbaevF/-/assets/114729066/79659adf-aee1-43b2-b826-8c92aa540a54)
+
